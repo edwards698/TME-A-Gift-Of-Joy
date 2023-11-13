@@ -1,4 +1,4 @@
-# Tech Master Event The Gift Of Joy From -Arduino Christmas Project
+<img width="1260" alt="Screenshot 2023-11-13 at 23 07 04" src="https://github.com/edwards698/TME-A-Gift-Of-Joy/assets/72227750/a1fdb9d0-9ef7-4c26-8af5-b69fad2fc784"># Tech Master Event The Gift Of Joy From -Arduino Christmas Project
 The Gift of Joy is a festive project designed to bring the spirit of Christmas to life through a combination of 
 electronics and creativity. This open-source project incorporates an Arduino Nano with an ATmega328 microcontroller, 
 an LCD display (16x2), 5 LEDs, 5 100-ohm resistors, a 10K potentiometer, a push button, and a buzzer. Spreading the joy and celebrate the Christmas season by coming up with your own Gift of Joy open Source. 
@@ -20,6 +20,10 @@ The Gift of Joy" is published as an open-source project, inviting others to lear
 const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 ```
+
+### Schematic 
+<img width="1260" alt="Screenshot 2023-11-13 at 23 08 38" src="https://github.com/edwards698/TME-A-Gift-Of-Joy/assets/72227750/e1c0eaee-57d1-4f8b-86c9-a376c4821e1f">
+
 
 ## Components 
 ### Arduino Nano (ATmega328):
