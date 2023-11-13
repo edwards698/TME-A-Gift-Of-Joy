@@ -5,8 +5,7 @@ an LCD display (16x2), 5 LEDs, 5 100-ohm resistors, a 10K potentiometer, a push 
 
 Lets celebrate this festive season together 
 
-<a href="https://techmasterevent.com/learn" target="_parent"><img src="https://img.shields.io/badge/Learn Teach Master Event-orange " alt="Learn Teach Master Event"/></a> <a href="https://www.tinkercad.com/things/eoOamRD5ktc-a-gift-of-joy/editel" target="_parent"><img src="https://img.shields.io/badge/Simulate this Project-puple " alt="Simulate this project"/></a> <a href="https://www.tinkercad.com/things/eoOamRD5ktc-a-gift-of-joy/editel" target="_parent"><img src="https://img.shields.io/badge/Simulate this Project-
-purple" alt="Simulate this project"/></a>
+<a href="https://techmasterevent.com/learn" target="_parent"><img src="https://img.shields.io/badge/Learn Teach Master Event-orange " alt="Learn Teach Master Event"/></a> <a href="https://www.tinkercad.com/things/eoOamRD5ktc-a-gift-of-joy/editel" target="_parent"><img src="https://img.shields.io/badge/Simulate this Project-puple " alt="Simulate this project"/></a> 
 ### Tech Master Event
 
 
