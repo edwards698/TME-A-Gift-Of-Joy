@@ -52,3 +52,5 @@ Utilize the potentiometer to allow users to adjust settings
 
 ### Buzzer Melodies: 
 Program the buzzer to play festive tunes or sound effects, enhancing the overall Christmas experience.
+
+"The Gift of Joy" is published as an open-source project, inviting others to learn from, modify, and contribute to the code and hardware design. By sharing the joy of Christmas through this project, the hope is to inspire others to build their own festive creations and share them with the community.
