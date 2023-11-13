@@ -12,9 +12,14 @@ https://techmasterevent.com/
 The Gift of Joy" is published as an open-source project, inviting others to learn from, modify, and contribute to the code and hardware design. By sharing the joy of Christmas through this project, the hope is to inspire others to build their own festive creations and share them with the community.
 
 ### Dependencies
-'''C++
+```C++
 #include <LiquidCrystal.h>
-'''
+```
+
+```C++
+const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
+```
 
 ## Components 
 ### Arduino Nano (ATmega328):
