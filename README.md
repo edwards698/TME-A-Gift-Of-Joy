@@ -5,7 +5,7 @@ an LCD display (16x2), 5 LEDs, 5 100-ohm resistors, a 10K potentiometer, a push 
 
 Lets celebrate this festive season together 
 
-<a href="https://colab.research.google.com/github/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Train_TFLite2_Object_Detction_Model.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://www.google.com/search?q=schematic&rlz=1C5CHFA_enZM1070ZM1070&oq=&gs_lcrp=EgZjaHJvbWUqCQgBECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMg8IBxAuGCcYxwEY6gIY0QPSAQkxODUyajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Tech Master Event
 
