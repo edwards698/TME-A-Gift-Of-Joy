@@ -1,4 +1,5 @@
 # Tech Master Event-The Gift Of Joy Christmas Project
+![IMG_2663 2](https://github.com/edwards698/TME-A-Gift-Of-Joy/assets/72227750/8377e4ef-f202-45a9-be42-3c544c8aae83)
 The Gift of Joy is a festive project designed to bring the spirit of Christmas to life through a combination of 
 electronics and creativity. This open-source project incorporates an Arduino Nano with an ATmega328 microcontroller, 
 an LCD display (16x2), 5 LEDs, 5 100-ohm resistors, a 10K potentiometer, a push button, and a buzzer. Spreading the joy and celebrate the Christmas season by coming up with your own Gift of Joy open Source. 
